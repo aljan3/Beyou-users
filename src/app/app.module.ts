@@ -16,6 +16,7 @@ import { InscriptionAbonneComponent} from './inscription-abonne/inscription-abon
 import { DomainesComponent } from './domaines/domaines.component';
 import { AfficherPostesComponent } from './afficher-postes/afficher-postes.component';
 import { ActualiteComponent } from './actualite/actualite.component';
+import { CategoriesComponent } from './categories/categories.component';
 
 
 @NgModule({
@@ -32,6 +33,7 @@ import { ActualiteComponent } from './actualite/actualite.component';
     DomainesComponent,
     AfficherPostesComponent,
     ActualiteComponent,
+    CategoriesComponent,
 
 
 
